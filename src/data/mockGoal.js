@@ -1,6 +1,6 @@
 const goals =[
     {
-        
+        id:1,
         title:"Learn react",
         progress:40,
         daysLeft:30,
@@ -8,7 +8,7 @@ const goals =[
     {
         id:2,
         title:"Learn DSA",
-        progress:67,
+        progress:55,
         daysLeft:20,
     },
     {
@@ -18,8 +18,9 @@ const goals =[
         daysLeft:40,
     },
     {
+        id:4,
         title:"Learn Spring Boot",
-        progress:0,
+        progress:90,
         daysLeft:60,
     },
 
